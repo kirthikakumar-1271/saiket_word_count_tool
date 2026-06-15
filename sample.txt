@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is powerful.
+I enjoy learning Python.
+Python helps in automation.
